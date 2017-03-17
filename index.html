@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>CRUD Rest Api example</title>
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="well well-lg container">
+      <h1>REST Api Example</h1>
+      <button id="get-button" class= "btn btn-success"><span class="glyphicon glyphicon-hand-up" aria-hidden="true"> </span>  Click to READ/GET Person</button>
+      <div class="form-container">
+        <form id="create-form" class="form-inline">
+          <input type="text" id="create-input" class="form-control">
+          <button class= "btn btn-success"><span class="glyphicon glyphicon-plus" aria-hidden="true"> </span>  Create/Add New Person </button>
+        </form>
+      </div>
+      <table class="table table-hover">
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Action</th>
+          </tr>
+        </thead>
+        <tbody>
+        </tbody>
+      </table>
+    </div>
+
+  </body>
+<script src="jquery.min.js"></script>
+<script src="script.js"></script>
+
+</html>
