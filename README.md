@@ -10,12 +10,12 @@ Here, we will be building a little app which performs **CRUD** operations (POST,
   
  * Delete (DELETE)- Remove something
 
-Here, we will be using a **basic express server**. For more details on how to setup express server please refer to the below link.
+We will be using a **basic express server**. For more details on how to setup express server please refer to the below link.
 
 https://github.com/gigacoder/express-server-setup
 
 
-We will be use **Rest api** to perform operations on data. Rest Api stands for representational state transfers. It is a interface which uses HTTP requests to perform GET, PUT, POST and DELETE data.
+**Rest api** is used to perform operations on data. Rest Api stands for representational state transfers. It is a interface which uses HTTP requests to perform GET, PUT, POST and DELETE data.
 
 
 Use the following commands to clone and run the code:
