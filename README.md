@@ -28,7 +28,7 @@ Change the directory
 
 ```cd ajax-crud-rest-api```
 
-Run npm install to install node dependencies from mentioned on package.json
+Run npm install to install node dependencies mentioned on package.json
 
 ```npm install```
 
